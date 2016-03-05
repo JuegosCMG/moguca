@@ -1,0 +1,22 @@
+{
+  "name": "webpage",
+  "description": "Webpage for moguca's game",
+  "main": "index.html",
+  "authors": [
+    "garfenter <garfenter@gmail.com>"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.3"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/JuegosCMG/moguca",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
