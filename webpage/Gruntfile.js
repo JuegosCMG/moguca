@@ -6,7 +6,7 @@ module.exports = function(grunt) {
     // Bower packages
     bower: {
       install: {
-      
+
       }
     },
     // Metadata.
